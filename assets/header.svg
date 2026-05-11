@@ -18,8 +18,12 @@
         95%        { transform:translate(-3px,1px); opacity:0.8; }
         97%        { transform:translate(2px,-1px); opacity:0.9; }
       }
-      .pulse-line { animation: pulse 3s ease-in-out infinite; }
-      @keyframes pulse { 0%,100%{opacity:0.45} 50%{opacity:0.9} }
+      .t1 { animation: tc1 9s step-end infinite; }
+      .t2 { animation: tc2 9s step-end infinite; }
+      .t3 { animation: tc3 9s step-end infinite; }
+      @keyframes tc1 { 0%,30%{opacity:1} 33%,100%{opacity:0} }
+      @keyframes tc2 { 0%,32%{opacity:0} 33%,63%{opacity:1} 64%,100%{opacity:0} }
+      @keyframes tc3 { 0%,65%{opacity:0} 66%,96%{opacity:1} 97%,100%{opacity:0} }
     </style>
   </defs>
 
@@ -47,52 +51,61 @@
   <!-- scanline sweep -->
   <rect class="scan-drift" x="0" y="0" width="900" height="40" fill="#00ffff" opacity="0"/>
 
-  <!-- TOP BAR -->
-  <rect x="0" y="0" width="900" height="28" fill="#00ffff" opacity="0.055"/>
-  <rect x="0" y="0" width="900" height="1.5" fill="#00ffff" opacity="0.9"/>
-  <rect class="pulse-line" x="0" y="1.5" width="900" height="0.5" fill="#00ffff"/>
-  <rect x="0" y="28" width="900" height="0.75" fill="#00ffff" opacity="0.3"/>
-  <text class="mono" x="40" y="19" font-size="10" fill="#00ffff" opacity="0.7" letter-spacing="2">a.k.a m. umut aydin</text>
-  <text class="mono" x="660" y="19" font-size="10" fill="#00ffff" opacity="0.3" letter-spacing="2">github.com/avenkoze</text>
-
   <!-- CORNER BRACKETS -->
-  <rect x="20" y="36" width="24" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="20" y="36" width="2" height="18" fill="#00ffff" opacity="0.85"/>
-  <rect x="856" y="36" width="24" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="878" y="36" width="2" height="18" fill="#00ffff" opacity="0.85"/>
-  <rect x="20" y="260" width="24" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="20" y="244" width="2" height="18" fill="#00ffff" opacity="0.85"/>
-  <rect x="856" y="260" width="24" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="878" y="244" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="16" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="16" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="16" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="16" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
 
-  <!-- BOTTOM BAR -->
-  <rect x="0" y="270" width="900" height="30" fill="#00ffff" opacity="0.04"/>
-  <rect x="0" y="270" width="900" height="0.75" fill="#00ffff" opacity="0.3"/>
-  <rect x="0" y="298" width="900" height="1.5" fill="#00ffff" opacity="0.9"/>
-  <text class="mono" x="40" y="289" font-size="9" fill="#00ffff" opacity="0.45" letter-spacing="2">github.com/avenkoze</text>
-  <text class="mono" x="660" y="289" font-size="9" fill="#00ffff" opacity="0.22" letter-spacing="2">메이커 · 빌더 · 개발자</text>
+  <!-- github bottom left — no bar, just text -->
+  <text class="mono" x="40" y="293" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">github.com/avenkoze</text>
 
-  <!-- MAIN NAME -->
-  <text class="mono glitch-1" x="40" y="155" font-size="72" font-weight="700"
+  <!-- MAIN NAME — moved up -->
+  <text class="mono glitch-1" x="40" y="118" font-size="72" font-weight="700"
         fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
-  <text class="mono" x="40" y="155" font-size="72" font-weight="700"
+  <text class="mono" x="40" y="118" font-size="72" font-weight="700"
         fill="#ffffff" letter-spacing="4">AVENKOZE</text>
 
   <!-- underline -->
-  <rect x="40" y="163" width="432" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="40" y="166" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
+  <rect x="40" y="126" width="432" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="40" y="129" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
 
-  <!-- tagline with cursor -->
-  <text class="mono" x="42" y="192" font-size="12" fill="#00ccff" opacity="0.85" letter-spacing="3">making things that work</text>
-  <text class="mono cursor-blink" x="282" y="192" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
+  <!-- typing cycle + cursor -->
+  <text class="mono t1" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">making things that work</text>
+  <text class="mono t2" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">apps &amp; systems from scratch.</text>
+  <text class="mono t3" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">product-first, minimal, focused.</text>
+  <text class="mono cursor-blink" x="42" y="175" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
 
-  <!-- about -->
-  <text class="mono" x="42" y="216" font-size="10" fill="#00ffff" opacity="0.55" letter-spacing="2">i build apps and systems from scratch. product-first, minimal.</text>
+  <!-- RIGHT PANEL -->
+  <rect x="596" y="20" width="268" height="250" fill="#00ffff" opacity="0.025"/>
+  <rect x="596" y="20"  width="268" height="1"   fill="#00ffff" opacity="0.3"/>
+  <rect x="596" y="20"  width="1"   height="250" fill="#00ffff" opacity="0.3"/>
+  <rect x="864" y="20"  width="1"   height="250" fill="#00ffff" opacity="0.18"/>
+  <rect x="596" y="270" width="268" height="1"   fill="#00ffff" opacity="0.18"/>
+  <rect x="716" y="32"  width="0.5" height="228" fill="#00ffff" opacity="0.14"/>
 
-  <!-- links -->
-  <text class="mono" x="42" y="238" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">linkedin.com/in/avenkoze  ·  github.com/avenkoze</text>
+  <text class="mono" x="606" y="38" font-size="8" fill="#00ffff" opacity="0.4" letter-spacing="2">▸ PROFILE</text>
 
-  <!-- Korean sub -->
-  <text class="mono" x="42" y="256" font-size="11" fill="#00ffff" opacity="0.22" letter-spacing="2">메이커 · 빌더 · 개발자</text>
+  <text class="mono" x="606" y="60"  font-size="9" fill="#445566" letter-spacing="1">HANDLE</text>
+  <text class="mono" x="726" y="60"  font-size="9" fill="#aaddff" letter-spacing="1">avenkoze</text>
+
+  <text class="mono" x="606" y="82" font-size="9" fill="#445566" letter-spacing="1">STACK</text>
+  <text class="mono" x="726" y="82" font-size="9" fill="#aaddff" letter-spacing="1">RN · Node · PG</text>
+
+  <text class="mono" x="606" y="104" font-size="9" fill="#445566" letter-spacing="1">FOCUS</text>
+  <text class="mono" x="726" y="104" font-size="9" fill="#aaddff" letter-spacing="1">apps · systems</text>
+
+  <text class="mono" x="606" y="126" font-size="9" fill="#445566" letter-spacing="1">LANG</text>
+  <text class="mono" x="726" y="126" font-size="9" fill="#aaddff" letter-spacing="1">TR · EN · KR</text>
+
+  <text class="mono" x="606" y="148" font-size="9" fill="#445566" letter-spacing="1">STATUS</text>
+  <text class="mono" x="726" y="148" font-size="9" fill="#00ff88" letter-spacing="1">● active</text>
+
+  <text class="mono" x="606" y="170" font-size="9" fill="#445566" letter-spacing="1">OPEN TO</text>
+  <text class="mono" x="726" y="170" font-size="9" fill="#aaddff" letter-spacing="1">collab · build</text>
 
 </svg>
