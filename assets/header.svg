@@ -27,10 +27,8 @@
     </style>
   </defs>
 
-  <!-- BACKGROUND -->
   <rect width="900" height="300" fill="#000000"/>
 
-  <!-- subtle grid -->
   <g opacity="0.04" stroke="#00ccff" stroke-width="0.5">
     <line x1="75"  y1="0" x2="75"  y2="300"/>
     <line x1="150" y1="0" x2="150" y2="300"/>
@@ -48,7 +46,6 @@
     <line x1="0" y1="225" x2="900" y2="225"/>
   </g>
 
-  <!-- scanline sweep -->
   <rect class="scan-drift" x="0" y="0" width="900" height="40" fill="#00ffff" opacity="0"/>
 
   <!-- CORNER BRACKETS -->
@@ -61,51 +58,26 @@
   <rect x="856" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
   <rect x="878" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
 
-  <!-- github bottom left — no bar, just text -->
+  <!-- github bottom -->
   <text class="mono" x="40" y="293" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">github.com/avenkoze</text>
 
-  <!-- MAIN NAME — moved up -->
-  <text class="mono glitch-1" x="40" y="118" font-size="72" font-weight="700"
+  <!-- AVENKOZE -->
+  <text class="mono glitch-1" x="40" y="175" font-size="72" font-weight="700"
         fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
-  <text class="mono" x="40" y="118" font-size="72" font-weight="700"
+  <text class="mono" x="40" y="175" font-size="72" font-weight="700"
         fill="#ffffff" letter-spacing="4">AVENKOZE</text>
+  <rect x="40" y="183" width="432" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="40" y="186" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
 
-  <!-- underline -->
-  <rect x="40" y="126" width="432" height="2" fill="#00ffff" opacity="0.85"/>
-  <rect x="40" y="129" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
+  <!-- tagline -->
+  <text class="mono" x="42" y="208" font-size="12" fill="#00ccff" opacity="0.85" letter-spacing="3">making things that work</text>
+  <text class="mono cursor-blink" x="282" y="208" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
+  <text class="mono" x="42" y="230" font-size="11" fill="#00ffff" opacity="0.38" letter-spacing="2">메이커 · 빌더 · 개발자</text>
 
-  <!-- typing cycle + cursor -->
-  <text class="mono t1" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">making things that work</text>
-  <text class="mono t2" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">apps &amp; systems from scratch.</text>
-  <text class="mono t3" x="42" y="155" font-size="12" fill="#00ccff" opacity="0" letter-spacing="3">product-first, minimal, focused.</text>
-  <text class="mono cursor-blink" x="42" y="175" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
-
-  <!-- RIGHT PANEL -->
-  <rect x="596" y="20" width="268" height="250" fill="#00ffff" opacity="0.025"/>
-  <rect x="596" y="20"  width="268" height="1"   fill="#00ffff" opacity="0.3"/>
-  <rect x="596" y="20"  width="1"   height="250" fill="#00ffff" opacity="0.3"/>
-  <rect x="864" y="20"  width="1"   height="250" fill="#00ffff" opacity="0.18"/>
-  <rect x="596" y="270" width="268" height="1"   fill="#00ffff" opacity="0.18"/>
-  <rect x="716" y="32"  width="0.5" height="228" fill="#00ffff" opacity="0.14"/>
-
-  <text class="mono" x="606" y="38" font-size="8" fill="#00ffff" opacity="0.4" letter-spacing="2">▸ PROFILE</text>
-
-  <text class="mono" x="606" y="60"  font-size="9" fill="#445566" letter-spacing="1">HANDLE</text>
-  <text class="mono" x="726" y="60"  font-size="9" fill="#aaddff" letter-spacing="1">avenkoze</text>
-
-  <text class="mono" x="606" y="82" font-size="9" fill="#445566" letter-spacing="1">STACK</text>
-  <text class="mono" x="726" y="82" font-size="9" fill="#aaddff" letter-spacing="1">RN · Node · PG</text>
-
-  <text class="mono" x="606" y="104" font-size="9" fill="#445566" letter-spacing="1">FOCUS</text>
-  <text class="mono" x="726" y="104" font-size="9" fill="#aaddff" letter-spacing="1">apps · systems</text>
-
-  <text class="mono" x="606" y="126" font-size="9" fill="#445566" letter-spacing="1">LANG</text>
-  <text class="mono" x="726" y="126" font-size="9" fill="#aaddff" letter-spacing="1">TR · EN · KR</text>
-
-  <text class="mono" x="606" y="148" font-size="9" fill="#445566" letter-spacing="1">STATUS</text>
-  <text class="mono" x="726" y="148" font-size="9" fill="#00ff88" letter-spacing="1">● active</text>
-
-  <text class="mono" x="606" y="170" font-size="9" fill="#445566" letter-spacing="1">OPEN TO</text>
-  <text class="mono" x="726" y="170" font-size="9" fill="#aaddff" letter-spacing="1">collab · build</text>
+  <!-- RIGHT: typing cycle replacing profile panel -->
+  <text class="mono t1" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">making things that work.</text>
+  <text class="mono t2" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">apps &amp; systems from scratch.</text>
+  <text class="mono t3" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">product-first, minimal.</text>
+  <text class="mono cursor-blink" x="596" y="152" font-size="13" fill="#00ffff">▮</text>
 
 </svg>
