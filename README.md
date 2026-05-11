@@ -1,1 +1,27 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Ii4vYXNzZXRzL2hlYWRlci5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9ImhlYWRlciIgLz4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Ii4vYXNzZXRzL2Jpby5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9ImJpbyIgLz4KPC9wPgoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Ii4vYXNzZXRzL3Byb2plY3RzLnN2ZyIgd2lkdGg9IjEwMCUiIGFsdD0icHJvamVjdHMiIC8+CjwvcD4KCjxicj4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSIuL2Fzc2V0cy90ZWNoLXN0YWNrLnN2ZyIgd2lkdGg9IjEwMCUiIGFsdD0ic3RhY2siIC8+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSIuL2Fzc2V0cy9zdGF0cy5zdmciIHdpZHRoPSIxMDAlIiBhbHQ9InN0YXRzIiAvPgo8L3A+Cgo8YnI+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iLi9hc3NldHMvZm9vdGVyLnN2ZyIgd2lkdGg9IjEwMCUiIGFsdD0iZm9vdGVyIiAvPgo8L3A+Cg==
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="header" />
+</p>
+
+<p align="center">
+  <img src="./assets/bio.svg" width="100%" alt="bio" />
+</p>
+
+<p align="center">
+  <img src="./assets/projects.svg" width="100%" alt="projects" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="stack" />
+</p>
+
+<p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="footer" />
+</p>
