@@ -1,1 +1,27 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMTYwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE2MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIEBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PVNoYXJlK1RlY2grTW9ubyZhbXA7ZGlzcGxheT1zd2FwJyk7CiAgICAgIC5tb25vIHsgZm9udC1mYW1pbHk6ICdTaGFyZSBUZWNoIE1vbm8nLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2U7IH0KICAgICAgLnB1bHNlIHsgYW5pbWF0aW9uOiBwdWxzZSA0cyBlYXNlLWluLW91dCBpbmZpbml0ZTsgfQogICAgICBAa2V5ZnJhbWVzIHB1bHNlIHsgMCUsMTAwJXtvcGFjaXR5OjAuNH0gNTAle29wYWNpdHk6MC44NX0gfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMTYwIiBmaWxsPSIjMDAwMDAwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMiIGhlaWdodD0iMTYwIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CiAgPHJlY3QgeD0iMyIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMTYwIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjIiLz4KICA8cmVjdCB4PSIwIiB5PSIwIiAgIHdpZHRoPSI5MDAiIGhlaWdodD0iMSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4zIi8+CiAgPHJlY3QgeD0iMCIgeT0iMTU5IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMTUiLz4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iMjgiIHk9IjIyIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC40NSIgbGV0dGVyLXNwYWNpbmc9IjMiPuKWuCBBQk9VVDwvdGV4dD4KICA8cmVjdCB4PSIyOCIgeT0iMjciIHdpZHRoPSI2MCIgaGVpZ2h0PSIwLjUiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMiIvPgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSIyOCIgeT0iNTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOSIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+aSBidWlsZCBhcHBzIGFuZCBzeXN0ZW1zIGZyb20gc2NyYXRjaC48L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjI4IiB5PSI4MCIgZm9udC1zaXplPSIxNCIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC43NSIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+cHJvZHVjdC1maXJzdCwgbWluaW1hbCwgZm9jdXNlZCBvbiByZWFsIHVzZS48L3RleHQ+CiAgPHJlY3QgeD0iMjgiIHk9Ijk2IiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjAuNSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4xNSIvPgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSIyOCIgIHk9IjExOCIgZm9udC1zaXplPSI5LjUiIGZpbGw9IiM0NDU1NjYiIGxldHRlci1zcGFjaW5nPSIxLjUiPmJhc2VkIGluPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSIxMTAiIHk9IjExOCIgZm9udC1zaXplPSI5LjUiIGZpbGw9IiNhYWRkZmYiIGxldHRlci1zcGFjaW5nPSIxLjUiPnR1cmtleTwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iMjMwIiB5PSIxMTgiIGZvbnQtc2l6ZT0iOS41IiBmaWxsPSIjMzM0NDU1IiBsZXR0ZXItc3BhY2luZz0iMSI+wrc8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjI1NSIgeT0iMTE4IiBmb250LXNpemU9IjkuNSIgZmlsbD0iIzQ0NTU2NiIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+YnVpbGRpbmc8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjMzNSIgeT0iMTE4IiBmb250LXNpemU9IjkuNSIgZmlsbD0iI2FhZGRmZiIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+bW9iaWxlICZhbXA7IHdlYiBwcm9kdWN0czwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNjAwIiB5PSIxMTgiIGZvbnQtc2l6ZT0iOS41IiBmaWxsPSIjMzM0NDU1IiBsZXR0ZXItc3BhY2luZz0iMSI+wrc8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjYyNSIgeT0iMTE4IiBmb250LXNpemU9IjkuNSIgZmlsbD0iIzQ0NTU2NiIgbGV0dGVyLXNwYWNpbmc9IjEuNSI+Y29udGFjdDwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNzA1IiB5PSIxMTgiIGZvbnQtc2l6ZT0iOS41IiBmaWxsPSIjMDBjY2ZmIiBvcGFjaXR5PSIwLjgiIGxldHRlci1zcGFjaW5nPSIxLjUiPm9wZW48L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8gcHVsc2UiIHg9IjI4IiB5PSIxNDUiIGZvbnQtc2l6ZT0iOC41IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjM1IiBsZXR0ZXItc3BhY2luZz0iMiI+Y3VycmVudGx5IHdvcmtpbmcgb24gc29tZXRoaW5nLjwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs><style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:0.4} 50%{opacity:0.85} }
+  </style></defs>
+  <rect width="900" height="160" fill="#000000"/>
+  <rect x="0" y="0" width="3" height="160" fill="#00ffff" opacity="0.85"/>
+  <rect x="3" y="0" width="1" height="160" fill="#00ffff" opacity="0.2"/>
+  <rect x="0" y="0"   width="900" height="1" fill="#00ffff" opacity="0.3"/>
+  <rect x="0" y="159" width="900" height="1" fill="#00ffff" opacity="0.15"/>
+  <text class="mono" x="28" y="22" font-size="8.5" fill="#00ffff" opacity="0.45" letter-spacing="3">&#x25B8; ABOUT</text>
+  <rect x="28" y="27" width="60" height="0.5" fill="#00ffff" opacity="0.2"/>
+  <text class="mono" x="28" y="58" font-size="14" fill="#ffffff" opacity="0.9" letter-spacing="1.5">i build apps and systems from scratch.</text>
+  <text class="mono" x="28" y="80" font-size="14" fill="#ffffff" opacity="0.75" letter-spacing="1.5">product-first, minimal, focused on real use.</text>
+  <rect x="28" y="96" width="500" height="0.5" fill="#00ffff" opacity="0.15"/>
+  <text class="mono" x="28"  y="118" font-size="9.5" fill="#445566" letter-spacing="1.5">based in</text>
+  <text class="mono" x="110" y="118" font-size="9.5" fill="#aaddff" letter-spacing="1.5">turkey</text>
+  <text class="mono" x="230" y="118" font-size="9.5" fill="#334455" letter-spacing="1">·</text>
+  <text class="mono" x="255" y="118" font-size="9.5" fill="#445566" letter-spacing="1.5">building</text>
+  <text class="mono" x="335" y="118" font-size="9.5" fill="#aaddff" letter-spacing="1.5">mobile &amp; web products</text>
+  <text class="mono" x="600" y="118" font-size="9.5" fill="#334455" letter-spacing="1">·</text>
+  <text class="mono" x="625" y="118" font-size="9.5" fill="#445566" letter-spacing="1.5">contact</text>
+  <text class="mono" x="705" y="118" font-size="9.5" fill="#00ccff" opacity="0.8" letter-spacing="1.5">open</text>
+  <text class="mono pulse" x="28" y="145" font-size="8.5" fill="#00ffff" opacity="0.35" letter-spacing="2">currently working on something.</text>
+</svg>
