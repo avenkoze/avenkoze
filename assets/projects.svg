@@ -1,1 +1,10 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNDgiIHdpZHRoPSI5MDAiIGhlaWdodD0iNDgiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1TaGFyZStUZWNoK01vbm8mYW1wO2Rpc3BsYXk9c3dhcCcpOwogICAgICAubW9ubyB7IGZvbnQtZmFtaWx5OiAnU2hhcmUgVGVjaCBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlOyB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ4IiBmaWxsPSIjMDAwMDAwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjI1Ii8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMiIGhlaWdodD0iNDgiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuODUiLz4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iMjgiIHk9IjIwIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC40NSIgbGV0dGVyLXNwYWNpbmc9IjMiPuKWuCBQUk9KRUNUUzwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iMjgiIHk9IjM4IiBmb250LXNpemU9IjEzIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjg1IiBsZXR0ZXItc3BhY2luZz0iMiI+c2VsZWN0ZWQgd29yazwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iODIwIiB5PSIzMCIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMiIgbGV0dGVyLXNwYWNpbmc9IjIiPnBpbm5lZCDihpM8L3RleHQ+CiAgPHJlY3QgeD0iMCIgeT0iNDciIHdpZHRoPSI5MDAiIGhlaWdodD0iMSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4xMiIvPgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="900" height="48">
+  <defs><style>@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');.mono{font-family:'Share Tech Mono','Courier New',monospace;}</style></defs>
+  <rect width="900" height="48" fill="#000000"/>
+  <rect x="0" y="0" width="900" height="1" fill="#00ffff" opacity="0.25"/>
+  <rect x="0" y="0" width="3" height="48" fill="#00ffff" opacity="0.85"/>
+  <text class="mono" x="28" y="20" font-size="8.5" fill="#00ffff" opacity="0.45" letter-spacing="3">&#x25B8; PROJECTS</text>
+  <text class="mono" x="28" y="38" font-size="13" fill="#ffffff" opacity="0.85" letter-spacing="2">selected work</text>
+  <text class="mono" x="820" y="30" font-size="8.5" fill="#00ffff" opacity="0.2" letter-spacing="2">pinned &#x2193;</text>
+  <rect x="0" y="47" width="900" height="1" fill="#00ffff" opacity="0.12"/>
+</svg>
