@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/ctos-banner.svg" width="900"/>
+</p>
+
+<p align="center">
   <img src="assets/stats.svg" width="860"/>
 </p>
 
@@ -30,4 +34,8 @@
 
 <p align="center">
   <img src="assets/footer.svg" width="860"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avenkoze&style=for-the-badge&color=00ffff&label=VISITORS&abbreviated=true" alt="visitor count"/>
 </p>
