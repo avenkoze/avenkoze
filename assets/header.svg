@@ -58,26 +58,23 @@
   <rect x="856" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
   <rect x="878" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
 
-  <!-- github bottom -->
   <text class="mono" x="40" y="293" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">github.com/avenkoze</text>
 
   <!-- AVENKOZE -->
-  <text class="mono glitch-1" x="40" y="175" font-size="72" font-weight="700"
-        fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
-  <text class="mono" x="40" y="175" font-size="72" font-weight="700"
-        fill="#ffffff" letter-spacing="4">AVENKOZE</text>
+  <text class="mono glitch-1" x="40" y="175" font-size="72" font-weight="700" fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
+  <text class="mono" x="40" y="175" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="4">AVENKOZE</text>
   <rect x="40" y="183" width="432" height="2" fill="#00ffff" opacity="0.85"/>
   <rect x="40" y="186" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
 
-  <!-- tagline -->
   <text class="mono" x="42" y="208" font-size="12" fill="#00ccff" opacity="0.85" letter-spacing="3">making things that work</text>
   <text class="mono cursor-blink" x="282" y="208" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
   <text class="mono" x="42" y="230" font-size="11" fill="#00ffff" opacity="0.38" letter-spacing="2">메이커 · 빌더 · 개발자</text>
 
-  <!-- RIGHT: typing cycle replacing profile panel -->
-  <text class="mono t1" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">making things that work.</text>
-  <text class="mono t2" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">apps &amp; systems from scratch.</text>
-  <text class="mono t3" x="596" y="130" font-size="13" fill="#00ccff" opacity="0" letter-spacing="2">product-first, minimal.</text>
-  <text class="mono cursor-blink" x="596" y="152" font-size="13" fill="#00ffff">▮</text>
+  <!-- RIGHT: typing cycle, NO panel/table -->
+  <text class="mono" x="596" y="148" font-size="9" fill="#00ffff" opacity="0.3" letter-spacing="3">// current</text>
+  <text class="mono t1" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">making things that work.</text>
+  <text class="mono t2" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">apps &amp; systems.</text>
+  <text class="mono t3" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">product-first, minimal.</text>
+  <text class="mono cursor-blink" x="596" y="194" font-size="13" fill="#00ffff">▮</text>
 
 </svg>
