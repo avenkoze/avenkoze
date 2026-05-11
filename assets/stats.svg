@@ -1,1 +1,10 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNDgiIHdpZHRoPSI5MDAiIGhlaWdodD0iNDgiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICBAaW1wb3J0IHVybCgnaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1TaGFyZStUZWNoK01vbm8mYW1wO2Rpc3BsYXk9c3dhcCcpOwogICAgICAubW9ubyB7IGZvbnQtZmFtaWx5OiAnU2hhcmUgVGVjaCBNb25vJywgJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlOyB9CiAgICA8L3N0eWxlPgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjQ4IiBmaWxsPSIjMDAwMDAwIi8+CiAgPHJlY3QgeD0iMCIgeT0iMCIgIHdpZHRoPSI5MDAiIGhlaWdodD0iMSIgIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMjUiLz4KICA8cmVjdCB4PSIwIiB5PSIwIiAgd2lkdGg9IjMiICAgaGVpZ2h0PSI0OCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC44NSIvPgogIDxyZWN0IHg9IjAiIHk9IjQ3IiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEiICBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjEyIi8+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjI4IiB5PSIyMCIgZm9udC1zaXplPSI4LjUiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuNDUiIGxldHRlci1zcGFjaW5nPSIzIj7ilrggU1RBVFM8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjI4IiB5PSIzOCIgZm9udC1zaXplPSIxMyIgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuODUiIGxldHRlci1zcGFjaW5nPSIyIj5hY3Rpdml0eSAmYW1wOyBjb250cmlidXRpb25zPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI4MDAiIHk9IjMwIiBmb250LXNpemU9IjguNSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4yIiBsZXR0ZXItc3BhY2luZz0iMiI+ZGF0YSDihpM8L3RleHQ+Cgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="900" height="48">
+  <defs><style>@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');.mono{font-family:'Share Tech Mono','Courier New',monospace;}</style></defs>
+  <rect width="900" height="48" fill="#000000"/>
+  <rect x="0" y="0"  width="900" height="1"  fill="#00ffff" opacity="0.25"/>
+  <rect x="0" y="0"  width="3"   height="48" fill="#00ffff" opacity="0.85"/>
+  <rect x="0" y="47" width="900" height="1"  fill="#00ffff" opacity="0.12"/>
+  <text class="mono" x="28" y="20" font-size="8.5" fill="#00ffff" opacity="0.45" letter-spacing="3">&#x25B8; STATS</text>
+  <text class="mono" x="28" y="38" font-size="13" fill="#ffffff" opacity="0.85" letter-spacing="2">activity &amp; contributions</text>
+  <text class="mono" x="800" y="30" font-size="8.5" fill="#00ffff" opacity="0.2" letter-spacing="2">data &#x2193;</text>
+</svg>
