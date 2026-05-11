@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a1a&height=160&text=AVENKOZE&fontColor=00ffff&fontSize=62&fontAlign=50&fontAlignY=52&animation=fadeIn&desc=a.k.a%20m.%20umut%20aydin&descAlign=50&descAlignY=72&descSize=14&descFontColor=009999&stroke=00ffff&strokeWidth=1" width="100%"/>
+  <img src="assets/header.svg" width="900"/>
 </p>
 
 <p align="center">
@@ -30,8 +30,4 @@
 
 <p align="center">
   <img src="assets/footer.svg" width="860"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a1a,100:000000&height=40&section=footer&stroke=00ffff&strokeWidth=1" width="100%"/>
 </p>
