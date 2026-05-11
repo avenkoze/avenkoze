@@ -1,1 +1,98 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgMzAwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMwMCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIEBpbXBvcnQgdXJsKCdodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PVNoYXJlK1RlY2grTW9ubyZhbXA7ZGlzcGxheT1zd2FwJyk7CiAgICAgIC5tb25vIHsgZm9udC1mYW1pbHk6ICdTaGFyZSBUZWNoIE1vbm8nLCAnQ291cmllciBOZXcnLCBtb25vc3BhY2U7IH0KICAgICAgLmN1cnNvci1ibGluayB7IGFuaW1hdGlvbjogYmxpbmsgMS4xcyBzdGVwLWVuZCBpbmZpbml0ZTsgfQogICAgICBAa2V5ZnJhbWVzIGJsaW5rIHsgMCUsMTAwJXtvcGFjaXR5OjF9IDUwJXtvcGFjaXR5OjB9IH0KICAgICAgLnNjYW4tZHJpZnQgeyBhbmltYXRpb246IHNjYW4gN3MgbGluZWFyIGluZmluaXRlOyB9CiAgICAgIEBrZXlmcmFtZXMgc2NhbiB7CiAgICAgICAgMCUgIHsgdHJhbnNmb3JtOnRyYW5zbGF0ZVkoLTMwMHB4KTsgb3BhY2l0eTowOyB9CiAgICAgICAgMTAlIHsgb3BhY2l0eTowLjAzOyB9CiAgICAgICAgOTAlIHsgb3BhY2l0eTowLjAzOyB9CiAgICAgICAgMTAwJXsgdHJhbnNmb3JtOnRyYW5zbGF0ZVkoMzAwcHgpOyBvcGFjaXR5OjA7IH0KICAgICAgfQogICAgICAuZ2xpdGNoLTEgeyBhbmltYXRpb246IGdsaXRjaDEgOXMgaW5maW5pdGU7IH0KICAgICAgQGtleWZyYW1lcyBnbGl0Y2gxIHsKICAgICAgICAwJSw5MyUsMTAwJXsgdHJhbnNmb3JtOnRyYW5zbGF0ZSgwLDApOyBvcGFjaXR5OjE7IH0KICAgICAgICA5NSUgICAgICAgIHsgdHJhbnNmb3JtOnRyYW5zbGF0ZSgtM3B4LDFweCk7IG9wYWNpdHk6MC44OyB9CiAgICAgICAgOTclICAgICAgICB7IHRyYW5zZm9ybTp0cmFuc2xhdGUoMnB4LC0xcHgpOyBvcGFjaXR5OjAuOTsgfQogICAgICB9CiAgICAgIC5wdWxzZS1saW5lIHsgYW5pbWF0aW9uOiBwdWxzZSAzcyBlYXNlLWluLW91dCBpbmZpbml0ZTsgfQogICAgICBAa2V5ZnJhbWVzIHB1bHNlIHsgMCUsMTAwJXtvcGFjaXR5OjAuNDV9IDUwJXtvcGFjaXR5OjAuOX0gfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDwhLS0gQkFDS0dST1VORCAtLT4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzAwMDAwMCIvPgoKICA8IS0tIHN1YnRsZSBncmlkIC0tPgogIDxnIG9wYWNpdHk9IjAuMDQiIHN0cm9rZT0iIzAwY2NmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiPgogICAgPGxpbmUgeDE9Ijc1IiAgeTE9IjAiIHgyPSI3NSIgIHkyPSIzMDAiLz4KICAgIDxsaW5lIHgxPSIxNTAiIHkxPSIwIiB4Mj0iMTUwIiB5Mj0iMzAwIi8+CiAgICA8bGluZSB4MT0iMjI1IiB5MT0iMCIgeDI9IjIyNSIgeTI9IjMwMCIvPgogICAgPGxpbmUgeDE9IjMwMCIgeTE9IjAiIHgyPSIzMDAiIHkyPSIzMDAiLz4KICAgIDxsaW5lIHgxPSIzNzUiIHkxPSIwIiB4Mj0iMzc1IiB5Mj0iMzAwIi8+CiAgICA8bGluZSB4MT0iNDUwIiB5MT0iMCIgeDI9IjQ1MCIgeTI9IjMwMCIvPgogICAgPGxpbmUgeDE9IjUyNSIgeTE9IjAiIHgyPSI1MjUiIHkyPSIzMDAiLz4KICAgIDxsaW5lIHgxPSI2MDAiIHkxPSIwIiB4Mj0iNjAwIiB5Mj0iMzAwIi8+CiAgICA8bGluZSB4MT0iNjc1IiB5MT0iMCIgeDI9IjY3NSIgeTI9IjMwMCIvPgogICAgPGxpbmUgeDE9Ijc1MCIgeTE9IjAiIHgyPSI3NTAiIHkyPSIzMDAiLz4KICAgIDxsaW5lIHgxPSI4MjUiIHkxPSIwIiB4Mj0iODI1IiB5Mj0iMzAwIi8+CiAgICA8bGluZSB4MT0iMCIgeTE9Ijc1IiAgeDI9IjkwMCIgeTI9Ijc1Ii8+CiAgICA8bGluZSB4MT0iMCIgeTE9IjE1MCIgeDI9IjkwMCIgeTI9IjE1MCIvPgogICAgPGxpbmUgeDE9IjAiIHkxPSIyMjUiIHgyPSI5MDAiIHkyPSIyMjUiLz4KICA8L2c+CgogIDwhLS0gc2NhbmxpbmUgc3dlZXAgLS0+CiAgPHJlY3QgY2xhc3M9InNjYW4tZHJpZnQiIHg9IjAiIHk9IjAiIHdpZHRoPSI5MDAiIGhlaWdodD0iNDAiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAiLz4KCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyOCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4wNTUiLz4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTAwIiBoZWlnaHQ9IjEuNSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC45Ii8+CiAgPHJlY3QgY2xhc3M9InB1bHNlLWxpbmUiIHg9IjAiIHk9IjEuNSIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIwLjUiIGZpbGw9IiMwMGZmZmYiLz4KICA8cmVjdCB4PSIwIiB5PSIyOCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIwLjc1IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjMiLz4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNDAiIHk9IjE5IiBmb250LXNpemU9IjEwIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjciIGxldHRlci1zcGFjaW5nPSIyIj5hLmsuYSBtLiB1bXV0IGF5ZGluPC90ZXh0PgoKICA8cmVjdCB4PSIyMCIgeT0iMzYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CiAgPHJlY3QgeD0iMjAiIHk9IjM2IiB3aWR0aD0iMiIgaGVpZ2h0PSIxOCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC44NSIvPgogIDxyZWN0IHg9Ijg1NiIgeT0iMzYiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CiAgPHJlY3QgeD0iODc4IiB5PSIzNiIgd2lkdGg9IjIiIGhlaWdodD0iMTgiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuODUiLz4KICA8cmVjdCB4PSIyMCIgeT0iMjYwIiB3aWR0aD0iMjQiIGhlaWdodD0iMiIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC44NSIvPgogIDxyZWN0IHg9IjIwIiB5PSIyNDQiIHdpZHRoPSIyIiBoZWlnaHQ9IjE4IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CiAgPHJlY3QgeD0iODU2IiB5PSIyNjAiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CiAgPHJlY3QgeD0iODc4IiB5PSIyNDQiIHdpZHRoPSIyIiBoZWlnaHQ9IjE4IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjg1Ii8+CgogIDxyZWN0IHg9IjAiIHk9IjI3MCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIzMCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4wNCIvPgogIDxyZWN0IHg9IjAiIHk9IjI3MCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIwLjc1IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjMiLz4KICA8cmVjdCB4PSIwIiB5PSIyOTgiIHdpZHRoPSI5MDAiIGhlaWdodD0iMS41IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjkiLz4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNDAiIHk9IjI4OSIgZm9udC1zaXplPSI5IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjQ1IiBsZXR0ZXItc3BhY2luZz0iMiI+Z2l0aHViLmNvbS9hdmVua296ZTwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNjYwIiB5PSIyODkiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4yMiIgbGV0dGVyLXNwYWNpbmc9IjIiPuuplOydtOy7pCDCtyDruYzrjZQgwrcg6rCc67Cc7J6QPC90ZXh0PgoKICA8dGV4dCBjbGFzcz0ibW9ubyBnbGl0Y2gtMSIgeD0iNDAiIHk9IjE3NSIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4xMiIgbGV0dGVyLXNwYWNpbmc9IjQiPkFWRU5LT1pFPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI0MCIgeT0iMTc1IiBmb250LXNpemU9IjcyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIiBsZXR0ZXItc3BhY2luZz0iNCI+QVZFS05PWkU8L3RleHQ+CgogIDxyZWN0IHg9IjQwIiB5PSIxODMiIHdpZHRoPSI0MzIiIGhlaWdodD0iMiIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC44NSIvPgogIDxyZWN0IHg9IjQwIiB5PSIxODYiIHdpZHRoPSIyMTAiIGhlaWdodD0iMC41IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjM1Ii8+CgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI0MiIgeT0iMjA4IiBmb250LXNpemU9IjEyIiBmaWxsPSIjMDBjY2ZmIiBvcGFjaXR5PSIwLjg1IiBsZXR0ZXItc3BhY2luZz0iMyI+bWFraW5nIHRoaW5ncyB0aGF0IHdvcms8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8gY3Vyc29yLWJsaW5rIiB4PSIyODIiIHk9IjIwOCIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzAwZmZmZiIgbGV0dGVyLXNwYWNpbmc9IjMiPuKWrjwvdGV4dD4KCiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjQyIiB5PSIyMzAiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMzgiIGxldHRlci1zcGFjaW5nPSIyIj7rqZTsnbTsu6Qgwrcg67mM642UIMK3IOqwnOuwnOyekDwvdGV4dD4KCiAgPHJlY3QgeD0iNTk2IiB5PSI0NiIgd2lkdGg9IjI2OCIgaGVpZ2h0PSIyMTYiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMDI1Ii8+CiAgPHJlY3QgeD0iNTk2IiB5PSI0NiIgd2lkdGg9IjI2OCIgaGVpZ2h0PSIxIiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjMiLz4KICA8cmVjdCB4PSI1OTYiIHk9IjQ2IiB3aWR0aD0iMSIgaGVpZ2h0PSIyMTYiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMyIvPgogIDxyZWN0IHg9Ijg2NCIgeT0iNDYiIHdpZHRoPSIxIiBoZWlnaHQ9IjIxNiIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4xOCIvPgogIDxyZWN0IHg9IjU5NiIgeT0iMjYyIiB3aWR0aD0iMjY4IiBoZWlnaHQ9IjEiIGZpbGw9IiMwMGZmZmYiIG9wYWNpdHk9IjAuMTgiLz4KICA8cmVjdCB4PSI3MTYiIHk9IjU4IiB3aWR0aD0iMC41IiBoZWlnaHQ9IjE5NCIgZmlsbD0iIzAwZmZmZiIgb3BhY2l0eT0iMC4xNCIvPgoKICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNjA2IiB5PSI2NCIgZm9udC1zaXplPSI4IiBmaWxsPSIjMDBmZmZmIiBvcGFjaXR5PSIwLjQiIGxldHRlci1zcGFjaW5nPSIyIj7ilrggUFJPRklMRTwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNjA2IiB5PSI4NiIgZm9udC1zaXplPSI5IiBmaWxsPSIjNDQ1NTY2IiBsZXR0ZXItc3BhY2luZz0iMSI+SEFORENFRTY8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjcyNiIgeT0iODYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2FhZGRmZiIgbGV0dGVyLXNwYWNpbmc9IjEiPmF2ZW5rb3plPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI2MDYiIHk9IjEwOCIgZm9udC1zaXplPSI5IiBmaWxsPSIjNDQ1NTY2IiBsZXR0ZXItc3BhY2luZz0iMSI+U1RBQ0s8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjcyNiIgeT0iMTA4IiBmb250LXNpemU9IjkiIGZpbGw9IiNhYWRkZmYiIGxldHRlci1zcGFjaW5nPSIxIj5STiDCtyBOb2RlIMK3IFBHPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI2MDYiIHk9IjEzMCIgZm9udC1zaXplPSI5IiBmaWxsPSIjNDQ1NTY2IiBsZXR0ZXItc3BhY2luZz0iMSI+Rk9DVVM8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjcyNiIgeT0iMTMwIiBmb250LXNpemU9IjkiIGZpbGw9IiNhYWRkZmYiIGxldHRlci1zcGFjaW5nPSIxIj5hcHBzIMK3IHN5c3RlbXM8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjYwNiIgeT0iMTUyIiBmb250LXNpemU9IjkiIGZpbGw9IiM0NDU1NjYiIGxldHRlci1zcGFjaW5nPSIxIj5MQU5HPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI3MjYiIHk9IjE1MiIgZm9udC1zaXplPSI5IiBmaWxsPSIjYWFkZGZmIiBsZXR0ZXItc3BhY2luZz0iMSI+VFIgwrcgRU4gwrcgS1I8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjYwNiIgeT0iMTc0IiBmb250LXNpemU9IjkiIGZpbGw9IiM0NDU1NjYiIGxldHRlci1zcGFjaW5nPSIxIj5TVEFUVVM8L3RleHQ+CiAgPHRleHQgY2xhc3M9Im1vbm8iIHg9IjcyNiIgeT0iMTc0IiBmb250LXNpemU9IjkiIGZpbGw9IiMwMGZmODgiIGxldHRlci1zcGFjaW5nPSIxIj7il48gYWN0aXZlPC90ZXh0PgogIDx0ZXh0IGNsYXNzPSJtb25vIiB4PSI2MDYiIHk9IjE5NiIgZm9udC1zaXplPSI5IiBmaWxsPSIjNDQ1NTY2IiBsZXR0ZXItc3BhY2luZz0iMSI+T1BFTiBUTzwvdGV4dD4KICA8dGV4dCBjbGFzcz0ibW9ubyIgeD0iNzI2IiB5PSIxOTYiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI2FhZGRmZiIgbGV0dGVyLXNwYWNpbmc9IjEiPmNvbGxhYiDCtyBidWlsZDwvdGV4dD4KPC9zdmc+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+      .cursor-blink { animation: blink 1.1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      .scan-drift { animation: scan 7s linear infinite; }
+      @keyframes scan {
+        0%  { transform:translateY(-300px); opacity:0; }
+        10% { opacity:0.03; }
+        90% { opacity:0.03; }
+        100%{ transform:translateY(300px); opacity:0; }
+      }
+      .glitch-1 { animation: glitch1 9s infinite; }
+      @keyframes glitch1 {
+        0%,93%,100%{ transform:translate(0,0); opacity:1; }
+        95%        { transform:translate(-3px,1px); opacity:0.8; }
+        97%        { transform:translate(2px,-1px); opacity:0.9; }
+      }
+      .pulse-line { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:0.45} 50%{opacity:0.9} }
+    </style>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="900" height="300" fill="#000000"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.04" stroke="#00ccff" stroke-width="0.5">
+    <line x1="75"  y1="0" x2="75"  y2="300"/>
+    <line x1="150" y1="0" x2="150" y2="300"/>
+    <line x1="225" y1="0" x2="225" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="375" y1="0" x2="375" y2="300"/>
+    <line x1="450" y1="0" x2="450" y2="300"/>
+    <line x1="525" y1="0" x2="525" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="675" y1="0" x2="675" y2="300"/>
+    <line x1="750" y1="0" x2="750" y2="300"/>
+    <line x1="825" y1="0" x2="825" y2="300"/>
+    <line x1="0" y1="75"  x2="900" y2="75"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="225" x2="900" y2="225"/>
+  </g>
+
+  <!-- scanline sweep -->
+  <rect class="scan-drift" x="0" y="0" width="900" height="40" fill="#00ffff" opacity="0"/>
+
+  <!-- TOP BAR -->
+  <rect x="0" y="0" width="900" height="28" fill="#00ffff" opacity="0.055"/>
+  <rect x="0" y="0" width="900" height="1.5" fill="#00ffff" opacity="0.9"/>
+  <rect class="pulse-line" x="0" y="1.5" width="900" height="0.5" fill="#00ffff"/>
+  <rect x="0" y="28" width="900" height="0.75" fill="#00ffff" opacity="0.3"/>
+  <text class="mono" x="40" y="19" font-size="10" fill="#00ffff" opacity="0.7" letter-spacing="2">a.k.a m. umut aydin</text>
+  <text class="mono" x="660" y="19" font-size="10" fill="#00ffff" opacity="0.3" letter-spacing="2">github.com/avenkoze</text>
+
+  <!-- CORNER BRACKETS -->
+  <rect x="20" y="36" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="36" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="36" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="36" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="260" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="244" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="260" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="244" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+
+  <!-- BOTTOM BAR -->
+  <rect x="0" y="270" width="900" height="30" fill="#00ffff" opacity="0.04"/>
+  <rect x="0" y="270" width="900" height="0.75" fill="#00ffff" opacity="0.3"/>
+  <rect x="0" y="298" width="900" height="1.5" fill="#00ffff" opacity="0.9"/>
+  <text class="mono" x="40" y="289" font-size="9" fill="#00ffff" opacity="0.45" letter-spacing="2">github.com/avenkoze</text>
+  <text class="mono" x="660" y="289" font-size="9" fill="#00ffff" opacity="0.22" letter-spacing="2">메이커 · 빌더 · 개발자</text>
+
+  <!-- MAIN NAME -->
+  <text class="mono glitch-1" x="40" y="155" font-size="72" font-weight="700"
+        fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
+  <text class="mono" x="40" y="155" font-size="72" font-weight="700"
+        fill="#ffffff" letter-spacing="4">AVENKOZE</text>
+
+  <!-- underline -->
+  <rect x="40" y="163" width="432" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="40" y="166" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
+
+  <!-- tagline with cursor -->
+  <text class="mono" x="42" y="192" font-size="12" fill="#00ccff" opacity="0.85" letter-spacing="3">making things that work</text>
+  <text class="mono cursor-blink" x="282" y="192" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
+
+  <!-- about -->
+  <text class="mono" x="42" y="216" font-size="10" fill="#00ffff" opacity="0.55" letter-spacing="2">i build apps and systems from scratch. product-first, minimal.</text>
+
+  <!-- links -->
+  <text class="mono" x="42" y="238" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">linkedin.com/in/avenkoze  ·  github.com/avenkoze</text>
+
+  <!-- Korean sub -->
+  <text class="mono" x="42" y="256" font-size="11" fill="#00ffff" opacity="0.22" letter-spacing="2">메이커 · 빌더 · 개발자</text>
+
+</svg>
