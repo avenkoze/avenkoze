@@ -58,7 +58,11 @@
   <rect x="856" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
   <rect x="878" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
 
+  <!-- BOTTOM LEFT: github url -->
   <text class="mono" x="40" y="293" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">github.com/avenkoze</text>
+
+  <!-- BOTTOM RIGHT: visitors badge (inline SVG foreignObject not supported in GitHub, use image tag) -->
+  <image href="https://komarev.com/ghpvc/?username=avenkoze&amp;style=flat-square&amp;color=00ffff&amp;label=visitors" x="650" y="276" width="210" height="20"/>
 
   <!-- AVENKOZE -->
   <text class="mono glitch-1" x="40" y="175" font-size="72" font-weight="700" fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
