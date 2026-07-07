@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avenkoze/avenkoze/main/assets/header.svg" width="900"/>
+  <img src="./assets/header.png" width="900" alt="avenkoze industrial banner"/>
 </p>
 
 <p align="right" style="margin-top:-8px; margin-right:calc(50% - 450px);">
