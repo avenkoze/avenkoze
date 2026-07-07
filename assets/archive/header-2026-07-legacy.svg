@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+      .cursor-blink { animation: blink 1.1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      .scan-drift { animation: scan 7s linear infinite; }
+      @keyframes scan {
+        0%  { transform:translateY(-300px); opacity:0; }
+        10% { opacity:0.03; }
+        90% { opacity:0.03; }
+        100%{ transform:translateY(300px); opacity:0; }
+      }
+      .glitch-1 { animation: glitch1 9s infinite; }
+      @keyframes glitch1 {
+        0%,93%,100%{ transform:translate(0,0); opacity:1; }
+        95%        { transform:translate(-3px,1px); opacity:0.8; }
+        97%        { transform:translate(2px,-1px); opacity:0.9; }
+      }
+      .t1 { animation: tc1 9s step-end infinite; }
+      .t2 { animation: tc2 9s step-end infinite; }
+      .t3 { animation: tc3 9s step-end infinite; }
+      @keyframes tc1 { 0%,30%{opacity:1} 33%,100%{opacity:0} }
+      @keyframes tc2 { 0%,32%{opacity:0} 33%,63%{opacity:1} 64%,100%{opacity:0} }
+      @keyframes tc3 { 0%,65%{opacity:0} 66%,96%{opacity:1} 97%,100%{opacity:0} }
+    </style>
+  </defs>
+
+  <rect width="900" height="300" fill="#000000"/>
+
+  <g opacity="0.04" stroke="#00ccff" stroke-width="0.5">
+    <line x1="75"  y1="0" x2="75"  y2="300"/>
+    <line x1="150" y1="0" x2="150" y2="300"/>
+    <line x1="225" y1="0" x2="225" y2="300"/>
+    <line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="375" y1="0" x2="375" y2="300"/>
+    <line x1="450" y1="0" x2="450" y2="300"/>
+    <line x1="525" y1="0" x2="525" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="675" y1="0" x2="675" y2="300"/>
+    <line x1="750" y1="0" x2="750" y2="300"/>
+    <line x1="825" y1="0" x2="825" y2="300"/>
+    <line x1="0" y1="75"  x2="900" y2="75"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="225" x2="900" y2="225"/>
+  </g>
+
+  <rect class="scan-drift" x="0" y="0" width="900" height="40" fill="#00ffff" opacity="0"/>
+
+  <!-- CORNER BRACKETS -->
+  <rect x="20" y="16" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="16" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="16" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="16" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="20" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+  <rect x="856" y="276" width="24" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="878" y="260" width="2" height="18" fill="#00ffff" opacity="0.85"/>
+
+  <!-- BOTTOM LEFT: github url -->
+  <text class="mono" x="40" y="293" font-size="9" fill="#00ffff" opacity="0.35" letter-spacing="2">github.com/avenkoze</text>
+
+  <!-- AVENKOZE -->
+  <text class="mono glitch-1" x="40" y="175" font-size="72" font-weight="700" fill="#00ffff" opacity="0.12" letter-spacing="4">AVENKOZE</text>
+  <text class="mono" x="40" y="175" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="4">AVENKOZE</text>
+  <rect x="40" y="183" width="432" height="2" fill="#00ffff" opacity="0.85"/>
+  <rect x="40" y="186" width="210" height="0.5" fill="#00ffff" opacity="0.35"/>
+
+  <text class="mono" x="42" y="208" font-size="12" fill="#00ccff" opacity="0.85" letter-spacing="3">making things that work</text>
+  <text class="mono cursor-blink" x="282" y="208" font-size="12" fill="#00ffff" letter-spacing="3">▮</text>
+  <text class="mono" x="42" y="230" font-size="11" fill="#00ffff" opacity="0.38" letter-spacing="2">메이커 · 빌더 · 개발자</text>
+
+  <!-- RIGHT: typing cycle -->
+  <text class="mono" x="596" y="148" font-size="9" fill="#00ffff" opacity="0.3" letter-spacing="3">// current</text>
+  <text class="mono t1" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">making things that work.</text>
+  <text class="mono t2" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">apps &amp; systems.</text>
+  <text class="mono t3" x="596" y="172" font-size="13" fill="#00ccff" letter-spacing="2">product-first, minimal.</text>
+  <text class="mono cursor-blink" x="596" y="194" font-size="13" fill="#00ffff">▮</text>
+
+</svg>
