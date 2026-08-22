@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-labelledby="title desc">
+  <title id="title">avenkoze neon terminal profile</title>
+  <desc id="desc">A purple and cyan terminal card with glowing ASCII art and developer profile information.</desc>
+
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6f4cff"/>
+      <stop offset="0.48" stop-color="#d467ff"/>
+      <stop offset="1" stop-color="#29e6ff"/>
+    </linearGradient>
+    <linearGradient id="titlebar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#17132b"/>
+      <stop offset="0.52" stop-color="#27173b"/>
+      <stop offset="1" stop-color="#111b31"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="70%" cy="20%" r="82%">
+      <stop offset="0" stop-color="#6a2ca7" stop-opacity=".28"/>
+      <stop offset=".48" stop-color="#251436" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#070913" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" values="1 0 0 0 0.44  0 0 0 0 0.17  0 0 1 0 0.92  0 0 0 .58 0"/>
+    </filter>
+    <filter id="purpleGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="cyanGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip"><rect x="18" y="18" width="864" height="434" rx="13"/></clipPath>
+    <style>
+      .mono { font-family: "Cascadia Code", "Fira Code", Consolas, monospace; }
+      .label { fill: #c976ff; font-size: 14px; font-weight: 700; }
+      .value { fill: #f5eeff; font-size: 14px; }
+      .muted { fill: #9d91b5; font-size: 12px; }
+      .line { stroke: #7f609e; stroke-opacity: .62; }
+    </style>
+  </defs>
+
+  <rect x="24" y="27" width="852" height="426" rx="18" fill="#7a31e8" opacity=".46" filter="url(#shadow)"/>
+  <rect x="8" y="8" width="884" height="454" rx="18" fill="url(#frame)"/>
+  <rect x="10" y="10" width="880" height="450" rx="16" fill="#090a12"/>
+  <rect x="18" y="18" width="864" height="434" rx="13" fill="#0b0b16"/>
+  <g clip-path="url(#screenClip)">
+    <rect x="18" y="18" width="864" height="52" fill="url(#titlebar)"/>
+    <rect x="18" y="70" width="864" height="382" fill="#0c0b17"/>
+    <rect x="18" y="70" width="864" height="382" fill="url(#ambient)"/>
+    <circle cx="52" cy="44" r="6" fill="#ff5f57"/>
+    <circle cx="74" cy="44" r="6" fill="#febc2e"/>
+    <circle cx="96" cy="44" r="6" fill="#28c840"/>
+    <text x="126" y="49" class="mono" fill="#d9cae9" font-size="14">PowerShell — avenkoze@github</text>
+    <text x="850" y="49" text-anchor="end" class="mono" fill="#765f8b" font-size="12">SYSTEM ONLINE</text>
+
+    <text x="42" y="98" class="mono" fill="#9b83b5" font-size="12">Windows PowerShell</text>
+    <text x="42" y="119" class="mono" fill="#cdb9dc" font-size="12">Welcome to my corner of the internet.</text>
+
+    <g class="mono" font-size="15" fill="#e3a6ff" filter="url(#purpleGlow)">
+      <text x="48" y="158" xml:space="preserve">          ++          ++</text>
+      <text x="48" y="176" xml:space="preserve">       ++++++      ++++++</text>
+      <text x="48" y="194" xml:space="preserve">    ++++   +++    +++   ++++</text>
+      <text x="48" y="212" xml:space="preserve">  +++       ++++++++       +++</text>
+      <text x="48" y="230" xml:space="preserve">++          ++++++          ++</text>
+      <text x="48" y="248" xml:space="preserve"> ++++     ++++++++++++     ++++</text>
+      <text x="48" y="266" xml:space="preserve">   ++++++++++++++++++++++++++</text>
+      <text x="48" y="284" xml:space="preserve">     +++++++  ++  +++++++</text>
+      <text x="48" y="302" xml:space="preserve">       ++++   ++   ++++</text>
+      <text x="48" y="320" xml:space="preserve">     +++     ++++     +++</text>
+      <text x="48" y="338" xml:space="preserve">   +++      ++  ++      +++</text>
+      <text x="48" y="356" xml:space="preserve"> ++        ++    ++        ++</text>
+    </g>
+
+    <g transform="translate(455 128)">
+      <text x="0" y="0" class="mono" fill="#2de7ff" font-size="13" font-weight="700" filter="url(#cyanGlow)">┌─ PROFILE ──────────────────────────────┐</text>
+      <text x="0" y="30" class="mono label">│ USER</text><text x="112" y="30" class="mono value">avenkoze</text><text x="392" y="30" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="56" class="mono label">│ HOST</text><text x="112" y="56" class="mono value">github.com</text><text x="392" y="56" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="82" class="mono label">│ ROLE</text><text x="112" y="82" class="mono value">developer / builder</text><text x="392" y="82" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="108" class="mono label">│ SHELL</text><text x="112" y="108" class="mono value">PowerShell</text><text x="392" y="108" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="134" class="mono" fill="#2de7ff" font-size="13" font-weight="700" filter="url(#cyanGlow)">└───────────────────────────────────────┘</text>
+
+      <text x="0" y="174" class="mono" fill="#c976ff" font-size="13" font-weight="700">┌─ STACK ────────────────────────────────┐</text>
+      <text x="0" y="204" class="mono label">│ CODE</text><text x="112" y="204" class="mono value">Python · JS · PowerShell</text><text x="392" y="204" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="230" class="mono label">│ MODE</text><text x="112" y="230" class="mono value">building weird things</text><text x="392" y="230" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="256" class="mono label">│ STATUS</text><text x="112" y="256" class="mono value">always learning</text><text x="392" y="256" text-anchor="end" class="mono value">│</text>
+      <text x="0" y="282" class="mono" fill="#c976ff" font-size="13" font-weight="700">└───────────────────────────────────────┘</text>
+
+      <circle cx="12" cy="316" r="4" fill="#2de7ff" filter="url(#cyanGlow)"/>
+      <circle cx="32" cy="316" r="4" fill="#c976ff" filter="url(#purpleGlow)"/>
+      <circle cx="52" cy="316" r="4" fill="#ff5f8f"/>
+      <circle cx="72" cy="316" r="4" fill="#febc2e"/>
+      <circle cx="92" cy="316" r="4" fill="#28c840"/>
+      <text x="118" y="321" class="mono muted">neon session // public profile</text>
+    </g>
+
+    <text x="42" y="423" class="mono" fill="#d8c6e5" font-size="13">PS C:\Users\avenkoze&gt;</text>
+    <rect x="210" y="412" width="9" height="14" rx="1" fill="#37e9ff" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;1;.15;.15;1" dur="1.25s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
