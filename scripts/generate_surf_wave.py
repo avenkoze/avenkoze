@@ -14,6 +14,7 @@ from pathlib import Path
 
 Vec3 = tuple[float, float, float]
 Triangle = tuple[Vec3, Vec3, Vec3]
+MODEL_SCALE = 3.2
 
 
 def add(a: Vec3, b: Vec3) -> Vec3:
@@ -173,7 +174,8 @@ def stl_text(triangles: list[Triangle]) -> str:
         normal = normal_for(triangle)
         lines.append(f"  facet normal {normal[0]:.5f} {normal[1]:.5f} {normal[2]:.5f}")
         lines.append("    outer loop")
-        for vertex in triangle:
+        for raw_vertex in triangle:
+            vertex = scale(raw_vertex, MODEL_SCALE)
             lines.append(f"      vertex {vertex[0]:.5f} {vertex[1]:.5f} {vertex[2]:.5f}")
         lines.append("    endloop")
         lines.append("  endfacet")
