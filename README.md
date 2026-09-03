@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/chromatic-signal.svg" width="100%" alt="AVENKOZE — chromatic signal"/>
+  <img src="./assets/floating-glow-clover.webp" width="104" align="middle" alt="A"/><img src="./assets/chromatic-signal.svg" width="440" align="middle" alt="VENKOZE — chromatic signal"/>
 </p>
